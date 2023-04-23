@@ -1,19 +1,42 @@
-### Project_1
+### Project-BBCNews
 
-#### BBC_Webscraping - POM
+This is a framework written to test BBC Websites features. 
 
-This script is written Python Gherkin languages, that uses Selenium Framework. It has:
+It is written using Selenium/Python, with BDD implementation using Behave in Gherkin language.
 
-1. Page Object Model implementation with PyTest that automates opening a browser, navigating to the BBC website,
-   rejecting cookies, clicking on various links to go to India news section, and printing the news headlines from the
-   page, as well as
-   using assert to check if the correct pages are loaded.
+It has Page Object Model implementation.
 
-2. Behavior Driven Development with Behave module that uses background to launch the browser, reject cookies, click and
-   validate several news sections.
+Logging featured is included to document the tests.
 
-   a. The results are generated using allure-behave:
-   behave -f allure_behave.formatter:AllureFormatter -o Project_1/features/reports ./Project_1/features/
+Environment is set up for before and after scenario to reduce duplication of code. 
 
-   b. Then they are converted to html files with the command:
-   allure serve Project_1/features/reports
+The following features are tested:
+
+1. News: Different sections of news are clicked in the below scenarios, to validate each one.
+
+   a. World
+   b. Science
+   c. Tech
+   d. Climate
+   e. Business
+
+2. Video: Playback functionality of video on the website is checked 
+
+   a. Play 
+   b. Pause
+
+Commands to run the tests:
+
+1. To run the features:
+
+   a. behave features\news.feature
+   b. behave features\video.feature
+
+2. The results can be generated using allure-behave:
+
+   a. behave -f allure_behave.formatter:AllureFormatter -o reports/ ./features/news.feature
+   b. behave -f allure_behave.formatter:AllureFormatter -o reports/ ./features/video.feature
+
+3. The results are converted to html files for readability using:
+
+   allure serve reports/

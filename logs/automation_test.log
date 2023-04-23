@@ -1,0 +1,734 @@
+2023-04-22 18:55:19,483 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:55:20,337 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:55:20,946 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:55:20,948 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:55:20,950 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:55:20,950 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:55:20,950 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:55:20,950 - root - INFO - ***** Feature Scenario Test001World Has Started *****
+2023-04-22 18:56:41,047 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:56:41,047 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:56:43,003 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:56:43,003 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:56:43,100 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:56:43,100 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:56:43,100 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:56:43,100 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:56:43,104 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:56:43,104 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:56:43,104 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:56:43,104 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:56:43,104 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:56:43,104 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:56:43,104 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Started *****
+2023-04-22 18:56:43,104 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Started *****
+2023-04-22 18:57:08,775 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:09,674 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:10,274 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:10,275 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:10,279 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:10,279 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:10,279 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:10,279 - root - INFO - ***** Feature Scenario Test001World Has Started *****
+2023-04-22 18:57:11,300 - root - INFO - ***** BBC World News Validation Passed *****
+2023-04-22 18:57:11,301 - root - INFO - ***** Feature Scenario Test001BBCWorldNews Has Ended *****
+2023-04-22 18:57:18,630 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:18,630 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:19,803 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:19,803 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:19,909 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:19,909 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:19,909 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:19,909 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:19,912 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:19,912 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:19,912 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:19,912 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:19,912 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:19,912 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:19,912 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Started *****
+2023-04-22 18:57:19,912 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Started *****
+2023-04-22 18:57:21,230 - root - INFO - ***** BBC Climate News Validation Passed *****
+2023-04-22 18:57:21,230 - root - INFO - ***** BBC Climate News Validation Passed *****
+2023-04-22 18:57:21,230 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Ended *****
+2023-04-22 18:57:21,230 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Ended *****
+2023-04-22 18:57:28,544 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:28,544 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:28,544 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:29,703 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:29,703 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:29,703 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:29,798 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:29,798 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:29,798 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:29,799 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:29,799 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:29,799 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:29,801 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:29,801 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:29,801 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:29,801 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:29,801 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:29,801 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:29,801 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:29,801 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:29,801 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:29,803 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-22 18:57:29,803 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-22 18:57:29,803 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-22 18:57:30,886 - root - INFO - ***** BBC Business News Validation Passed *****
+2023-04-22 18:57:30,886 - root - INFO - ***** BBC Business News Validation Passed *****
+2023-04-22 18:57:30,886 - root - INFO - ***** BBC Business News Validation Passed *****
+2023-04-22 18:57:30,886 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Ended *****
+2023-04-22 18:57:30,886 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Ended *****
+2023-04-22 18:57:30,886 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Ended *****
+2023-04-22 18:57:38,209 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:38,209 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:38,209 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:38,209 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:39,059 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:39,059 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:39,059 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:39,059 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:39,666 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:39,666 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:39,666 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:39,666 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:39,667 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:39,667 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:39,667 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:39,667 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:39,670 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:39,670 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:39,670 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:39,670 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:39,671 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:39,671 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:39,671 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:39,671 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:39,671 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:39,671 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:39,671 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:39,671 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:39,671 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 18:57:39,671 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 18:57:39,671 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 18:57:39,671 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 18:57:40,844 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 18:57:40,844 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 18:57:40,844 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 18:57:40,844 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 18:57:40,844 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 18:57:40,844 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 18:57:40,844 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 18:57:40,844 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 18:57:48,258 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:48,258 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:48,258 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:48,258 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:48,258 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 18:57:49,277 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:49,277 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:49,277 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:49,277 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:49,277 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 18:57:49,384 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:49,384 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:49,384 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:49,384 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:49,384 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 18:57:49,385 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:49,385 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:49,385 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:49,385 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:49,385 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:49,389 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 18:57:49,389 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 18:57:49,389 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 18:57:49,389 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 18:57:49,389 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 18:57:49,389 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 18:57:50,233 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 18:57:50,233 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 18:57:50,233 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 18:57:50,233 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 18:57:50,233 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 18:57:50,233 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 18:57:50,233 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 18:57:50,233 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 18:57:50,233 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 18:57:50,233 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:01:46,028 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:01:47,420 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:01:47,512 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:01:47,513 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:01:47,517 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:01:47,517 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:01:47,517 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:01:47,517 - root - INFO - ***** Feature Scenario Test001World Has Started *****
+2023-04-22 19:01:48,341 - root - INFO - ***** BBC World News Validation Passed *****
+2023-04-22 19:01:48,341 - root - INFO - ***** Feature Scenario Test001BBCWorldNews Has Ended *****
+2023-04-22 19:01:55,744 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:01:55,744 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:01:56,669 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:01:56,669 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:01:57,268 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:01:57,268 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:01:57,268 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:01:57,268 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:01:57,271 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:01:57,271 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:01:57,271 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:01:57,271 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:01:57,271 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:01:57,271 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:01:57,271 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Started *****
+2023-04-22 19:01:57,271 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Started *****
+2023-04-22 19:01:57,962 - root - INFO - ***** BBC Climate News Validation Passed *****
+2023-04-22 19:01:57,962 - root - INFO - ***** BBC Climate News Validation Passed *****
+2023-04-22 19:01:57,963 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Ended *****
+2023-04-22 19:01:57,963 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Ended *****
+2023-04-22 19:02:05,377 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:02:05,377 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:02:05,377 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:02:06,947 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:02:06,947 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:02:06,947 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:02:07,034 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:02:07,034 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:02:07,034 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:02:07,034 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:02:07,034 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:02:07,034 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:02:07,038 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:02:07,038 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:02:07,038 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:02:07,038 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:02:07,038 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:02:07,038 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:02:07,038 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:02:07,038 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:02:07,038 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:02:07,038 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-22 19:02:07,038 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-22 19:02:07,038 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-22 19:03:08,831 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:03:08,831 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:03:08,831 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:03:08,831 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:03:10,721 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:03:10,721 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:03:10,721 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:03:10,721 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:03:10,807 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:03:10,807 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:03:10,807 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:03:10,807 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:03:10,807 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:03:10,807 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:03:10,807 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:03:10,807 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:03:10,811 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:03:10,812 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 19:03:10,812 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 19:03:10,812 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 19:03:10,812 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 19:03:11,717 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 19:03:11,717 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 19:03:11,717 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 19:03:11,717 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 19:03:11,717 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 19:03:11,717 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 19:03:11,717 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 19:03:11,717 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 19:03:19,057 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:03:19,057 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:03:19,057 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:03:19,057 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:03:19,057 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:03:19,863 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:03:19,863 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:03:19,863 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:03:19,863 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:03:19,863 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:03:20,463 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:03:20,463 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:03:20,463 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:03:20,463 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:03:20,463 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:03:20,464 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:03:20,464 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:03:20,464 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:03:20,464 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:03:20,464 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:03:20,467 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:03:20,468 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:03:20,468 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:03:20,468 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:03:20,468 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:03:20,468 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:03:21,226 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 19:03:21,226 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 19:03:21,226 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 19:03:21,226 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 19:03:21,226 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 19:03:21,226 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:03:21,226 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:03:21,226 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:03:21,226 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:03:21,226 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:03:37,809 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:03:39,250 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:03:39,946 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:03:39,948 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:03:39,954 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:03:39,954 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:03:39,954 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:03:39,955 - root - INFO - ***** Feature Scenario Test001World Has Started *****
+2023-04-22 19:03:59,312 - root - INFO - ***** BBC World News Validation Passed *****
+2023-04-22 19:03:59,313 - root - INFO - ***** Feature Scenario Test001BBCWorldNews Has Ended *****
+2023-04-22 19:04:06,947 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:06,947 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:08,901 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:08,901 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:09,076 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:09,076 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:09,078 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:09,078 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:09,084 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:09,084 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:09,086 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:09,086 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:09,086 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:09,086 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:09,086 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Started *****
+2023-04-22 19:04:09,086 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Started *****
+2023-04-22 19:04:10,339 - root - INFO - ***** BBC Climate News Validation Passed *****
+2023-04-22 19:04:10,339 - root - INFO - ***** BBC Climate News Validation Passed *****
+2023-04-22 19:04:10,339 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Ended *****
+2023-04-22 19:04:10,339 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Ended *****
+2023-04-22 19:04:17,959 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:17,959 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:17,959 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:19,391 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:19,391 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:19,391 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:20,086 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:20,086 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:20,086 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:20,087 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:20,087 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:20,087 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:20,094 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:20,094 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:20,094 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:20,094 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:20,094 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:20,094 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:20,094 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:20,094 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:20,094 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:20,095 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-22 19:04:20,095 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-22 19:04:20,095 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-22 19:04:21,347 - root - INFO - ***** BBC Business News Validation Passed *****
+2023-04-22 19:04:21,347 - root - INFO - ***** BBC Business News Validation Passed *****
+2023-04-22 19:04:21,347 - root - INFO - ***** BBC Business News Validation Passed *****
+2023-04-22 19:04:21,347 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Ended *****
+2023-04-22 19:04:21,347 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Ended *****
+2023-04-22 19:04:21,347 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Ended *****
+2023-04-22 19:04:28,949 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:28,949 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:28,949 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:28,949 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:31,241 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:31,241 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:31,241 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:31,241 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:31,428 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:31,428 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:31,428 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:31,428 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:31,429 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:31,429 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:31,429 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:31,429 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:31,439 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:31,439 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:31,439 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:31,439 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:31,440 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:31,440 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:31,440 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:31,440 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:31,440 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:31,440 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:31,440 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:31,440 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:31,442 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 19:04:31,442 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 19:04:31,442 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 19:04:31,442 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-22 19:04:32,702 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 19:04:32,702 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 19:04:32,702 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 19:04:32,702 - root - INFO - ***** BBC Tech News Validation Passed *****
+2023-04-22 19:04:32,702 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 19:04:32,702 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 19:04:32,702 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 19:04:32,702 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-22 19:04:40,383 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:40,383 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:40,383 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:40,383 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:40,383 - root - INFO - ***** News Feature Background Has Begun *****
+2023-04-22 19:04:42,819 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:42,819 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:42,819 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:42,819 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:42,819 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 19:04:42,990 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:42,990 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:42,990 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:42,990 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:42,990 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 19:04:42,993 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:42,993 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:42,993 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:42,993 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:42,993 - root - INFO - ***** News Page Validation Has Started Loaded *****
+2023-04-22 19:04:43,003 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:43,003 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:43,003 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:43,003 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:43,003 - root - INFO - ***** News Page Validation Passed *****
+2023-04-22 19:04:43,003 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:43,003 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:43,003 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:43,003 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:43,003 - root - INFO - ***** News Page Validation Has Ended *****
+2023-04-22 19:04:43,004 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:43,004 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:43,004 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:43,004 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:43,004 - root - INFO - ***** News Feature Background Has Ended *****
+2023-04-22 19:04:43,005 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:04:43,005 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:04:43,005 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:04:43,005 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:04:43,005 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:04:44,220 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 19:04:44,220 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 19:04:44,220 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 19:04:44,220 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 19:04:44,220 - root - INFO - ***** BBC Science News Validation Passed *****
+2023-04-22 19:04:44,220 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:04:44,220 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:04:44,220 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:04:44,220 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 19:04:44,220 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-22 21:21:00,926 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 21:21:01,087 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 21:21:54,915 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 21:21:55,063 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 21:22:24,525 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 21:22:24,682 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 23:02:18,593 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 23:02:18,739 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 23:06:17,062 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 23:06:17,200 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 23:34:45,810 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 23:34:45,977 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-22 23:39:36,998 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-22 23:39:37,149 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:02:25,910 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:02:26,065 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:03:59,251 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:04:13,429 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:04:13,579 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:06:43,885 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:06:44,047 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:07:39,461 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:07:39,618 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:09:34,585 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:09:34,746 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:19:34,923 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:19:35,091 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:20:22,680 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:20:22,846 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:46:04,137 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:46:04,303 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:50:43,193 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:50:43,337 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:52:12,557 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:52:12,716 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 00:52:43,881 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 00:52:44,038 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 18:29:03,351 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 18:29:03,538 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 18:43:04,842 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 18:43:05,003 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 18:50:07,540 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 18:50:07,701 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 18:51:06,816 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 18:51:06,977 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 18:55:37,666 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 18:55:37,813 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 19:29:30,249 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 19:29:30,413 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 19:41:46,336 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 19:41:46,488 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 19:43:42,320 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 19:43:42,487 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 19:49:51,827 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 19:49:51,971 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 19:51:25,950 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 19:51:26,089 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 19:54:16,697 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 19:54:16,869 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:04:28,039 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:04:28,210 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:05:17,114 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:05:17,267 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:06:05,339 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:06:05,506 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:09:16,310 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:09:16,449 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:10:06,452 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:10:06,619 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:14:10,150 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:14:10,323 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:37:07,537 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:37:07,700 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:37:55,343 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:37:55,518 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:40:41,344 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:40:41,510 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:44:46,431 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:44:46,599 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:55:41,042 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:55:41,208 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 20:59:32,168 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 20:59:32,320 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:00:33,776 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:00:33,925 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:03:22,410 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:03:22,574 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:04:08,005 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:04:08,174 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:06:03,534 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:06:03,703 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:08:01,428 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:08:01,597 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:09:05,054 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:09:05,209 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:10:13,662 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:10:13,827 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:11:43,720 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:11:43,885 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:16:55,159 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:16:55,323 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:20:39,264 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:20:39,423 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:25:40,772 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:25:40,949 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:26:32,223 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:26:32,397 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:28:22,875 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:28:23,030 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:29:38,749 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:29:38,914 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:30:25,811 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:30:25,980 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:31:05,541 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:31:05,709 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:32:52,283 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:32:52,443 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 21:33:53,500 - root - INFO - ***** Cookie Rejection Started *****
+2023-04-23 21:33:53,659 - root - INFO - ***** Cookie Rejection Ended *****
+2023-04-23 22:04:21,335 - root - INFO - ***** Feature Scenario Test006BBCVideoNews Has Started *****
+2023-04-23 22:04:27,267 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:04:27,454 - root - INFO - Loaded Video News page successfully
+2023-04-23 22:04:37,617 - root - INFO - Clicked on play button
+2023-04-23 22:05:04,941 - root - INFO - ***** Feature Scenario Test006BBCVideoNews Has Started *****
+2023-04-23 22:05:10,789 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:05:10,972 - root - INFO - Loaded Video News page successfully
+2023-04-23 22:05:21,128 - root - INFO - Clicked on play button
+2023-04-23 22:05:22,019 - root - INFO - Video is playing
+2023-04-23 22:05:22,136 - root - INFO - Clicked on pause button
+2023-04-23 22:05:22,223 - root - INFO - Video is paused
+2023-04-23 22:05:22,223 - root - INFO - ***** Feature Scenario Test006BBCVideoNews Has Ended *****
+2023-04-23 22:05:37,980 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:05:39,252 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:05:39,953 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:05:39,966 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:05:39,966 - root - INFO - ***** Feature Scenario Test001World Has Started *****
+2023-04-23 22:05:39,966 - root - INFO - Clicking on the World link
+2023-04-23 22:05:41,230 - root - INFO - Validating that the BBC World News page is loaded
+2023-04-23 22:05:41,242 - root - INFO - BBC World News page loaded successfully
+2023-04-23 22:05:41,242 - root - INFO - ***** Feature Scenario Test001BBCWorldNews Has Ended *****
+2023-04-23 22:05:48,803 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:05:48,803 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:05:50,044 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:05:50,044 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:05:50,721 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:05:50,721 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:05:50,729 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:05:50,729 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:05:50,729 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Started *****
+2023-04-23 22:05:50,729 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Started *****
+2023-04-23 22:05:50,729 - root - INFO - Clicking on the Climate link
+2023-04-23 22:05:50,729 - root - INFO - Clicking on the Climate link
+2023-04-23 22:05:53,048 - root - INFO - Validating that the BBC Climate News page is loaded
+2023-04-23 22:05:53,048 - root - INFO - Validating that the BBC Climate News page is loaded
+2023-04-23 22:05:53,071 - root - INFO - BBC Climate News page loaded successfully
+2023-04-23 22:05:53,071 - root - INFO - BBC Climate News page loaded successfully
+2023-04-23 22:05:53,079 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Ended *****
+2023-04-23 22:05:53,079 - root - INFO - ***** Feature Scenario Test002BBCClimateNews Has Ended *****
+2023-04-23 22:06:00,725 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:00,725 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:00,725 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:02,023 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:02,023 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:02,023 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:02,224 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:02,224 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:02,224 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:02,227 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:02,227 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:02,227 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:02,227 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-23 22:06:02,227 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-23 22:06:02,227 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Started *****
+2023-04-23 22:06:02,227 - root - INFO - Clicking on the Business link
+2023-04-23 22:06:02,227 - root - INFO - Clicking on the Business link
+2023-04-23 22:06:02,227 - root - INFO - Clicking on the Business link
+2023-04-23 22:06:03,318 - root - INFO - Validating that the BBC Business News page is loaded
+2023-04-23 22:06:03,318 - root - INFO - Validating that the BBC Business News page is loaded
+2023-04-23 22:06:03,318 - root - INFO - Validating that the BBC Business News page is loaded
+2023-04-23 22:06:03,326 - root - INFO - BBC Business News page loaded successfully
+2023-04-23 22:06:03,326 - root - INFO - BBC Business News page loaded successfully
+2023-04-23 22:06:03,326 - root - INFO - BBC Business News page loaded successfully
+2023-04-23 22:06:03,326 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Ended *****
+2023-04-23 22:06:03,326 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Ended *****
+2023-04-23 22:06:03,326 - root - INFO - ***** Feature Scenario Test003BBCBusinessNews Has Ended *****
+2023-04-23 22:06:10,968 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:10,968 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:10,968 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:10,968 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:12,088 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:12,088 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:12,088 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:12,088 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:12,788 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:12,788 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:12,788 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:12,788 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:12,788 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:12,788 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:12,788 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:12,788 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:12,788 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-23 22:06:12,788 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-23 22:06:12,788 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-23 22:06:12,788 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Started *****
+2023-04-23 22:06:12,788 - root - INFO - Clicking on the Tech link
+2023-04-23 22:06:12,788 - root - INFO - Clicking on the Tech link
+2023-04-23 22:06:12,788 - root - INFO - Clicking on the Tech link
+2023-04-23 22:06:12,788 - root - INFO - Clicking on the Tech link
+2023-04-23 22:06:14,013 - root - INFO - Validating that the BBC Tech News page is loaded
+2023-04-23 22:06:14,013 - root - INFO - Validating that the BBC Tech News page is loaded
+2023-04-23 22:06:14,013 - root - INFO - Validating that the BBC Tech News page is loaded
+2023-04-23 22:06:14,013 - root - INFO - Validating that the BBC Tech News page is loaded
+2023-04-23 22:06:14,019 - root - INFO - BBC Tech News page loaded successfully
+2023-04-23 22:06:14,019 - root - INFO - BBC Tech News page loaded successfully
+2023-04-23 22:06:14,019 - root - INFO - BBC Tech News page loaded successfully
+2023-04-23 22:06:14,019 - root - INFO - BBC Tech News page loaded successfully
+2023-04-23 22:06:14,022 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-23 22:06:14,022 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-23 22:06:14,022 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-23 22:06:14,022 - root - INFO - ***** Feature Scenario Test004BBCTechNews Has Ended *****
+2023-04-23 22:06:21,601 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:21,601 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:21,601 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:21,601 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:21,601 - root - INFO - Navigating to the BBC News page
+2023-04-23 22:06:23,020 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:23,020 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:23,020 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:23,020 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:23,020 - root - INFO - Rejecting cookies by clicking on the Reject Cookies button
+2023-04-23 22:06:23,190 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:23,190 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:23,190 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:23,190 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:23,190 - root - INFO - Validating that the BBC News page is loaded
+2023-04-23 22:06:23,209 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:23,209 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:23,209 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:23,209 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:23,209 - root - INFO - BBC News page loaded successfully
+2023-04-23 22:06:23,209 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-23 22:06:23,209 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-23 22:06:23,209 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-23 22:06:23,209 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-23 22:06:23,209 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Started *****
+2023-04-23 22:06:23,209 - root - INFO - Clicking on the Science link
+2023-04-23 22:06:23,209 - root - INFO - Clicking on the Science link
+2023-04-23 22:06:23,209 - root - INFO - Clicking on the Science link
+2023-04-23 22:06:23,209 - root - INFO - Clicking on the Science link
+2023-04-23 22:06:23,209 - root - INFO - Clicking on the Science link
+2023-04-23 22:06:24,705 - root - INFO - Validating that the BBC Science News page is loaded
+2023-04-23 22:06:24,705 - root - INFO - Validating that the BBC Science News page is loaded
+2023-04-23 22:06:24,705 - root - INFO - Validating that the BBC Science News page is loaded
+2023-04-23 22:06:24,705 - root - INFO - Validating that the BBC Science News page is loaded
+2023-04-23 22:06:24,705 - root - INFO - Validating that the BBC Science News page is loaded
+2023-04-23 22:06:24,721 - root - INFO - BBC Science News page loaded successfully
+2023-04-23 22:06:24,721 - root - INFO - BBC Science News page loaded successfully
+2023-04-23 22:06:24,721 - root - INFO - BBC Science News page loaded successfully
+2023-04-23 22:06:24,721 - root - INFO - BBC Science News page loaded successfully
+2023-04-23 22:06:24,721 - root - INFO - BBC Science News page loaded successfully
+2023-04-23 22:06:24,721 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Ended *****
+2023-04-23 22:06:24,721 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Ended *****
+2023-04-23 22:06:24,721 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Ended *****
+2023-04-23 22:06:24,721 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Ended *****
+2023-04-23 22:06:24,721 - root - INFO - ***** Feature Scenario Test005BBCScienceNews Has Ended *****
